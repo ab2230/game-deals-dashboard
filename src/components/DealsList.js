@@ -1,4 +1,4 @@
-"use client"; // Enable client-side rendering
+"use client"; 
 
 import { useEffect, useState } from 'react';
 import { useGetDealsQuery } from './reduxToolkit/features/apiSlice';

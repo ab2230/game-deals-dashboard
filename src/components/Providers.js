@@ -1,5 +1,5 @@
-// src/app/Providers.js
-"use client"; // Required to use client-side hooks like Provider
+
+"use client"; 
 
 import { Provider } from "react-redux";
 import { store } from "./reduxToolkit/store";
